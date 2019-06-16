@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import './app.css';
-import friend from './friends.json'
-import Wrapper from './components/Wrapper/wrapper.js'
-import Navpills from './components/Navbar/navmenu.js'
+import friend from "./friends.json"
+import Wrapper from "./components/Wrapper/wrapper.js"
+import Navpills from "./components/Navbar/navmenu.js"
 import Jumbotron from "./components/Jumbotron/jumbotron.js"
-import FriendCard from './components/FriendCard/friendcard.js'
+import FriendCard from "./components/FriendCard/friendcard.js"
 
 class App extends Component {
     state = {
