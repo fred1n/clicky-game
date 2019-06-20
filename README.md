@@ -11,17 +11,18 @@ https://github.com/fred1n/clicky-game
 
 ## Execution
 
-npm install 
-
-* Run Locally
-
+* run locally
 Enter npm start and the browser will open to local host 3000.
 
+* Starting the app
 ![Start Image](/images/start.png)
 
+* Main starting page
 ![Home Image](/images/main.png)
 
+* Scoring
 ![Score Image](/images/score.png)
 
+* Loss
 ![Loss Image](/images/loss.png)
 
