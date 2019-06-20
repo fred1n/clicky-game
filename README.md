@@ -13,7 +13,7 @@ https://github.com/fred1n/clicky-game
 
 npm install 
 
-*Run Locally
+* Run Locally
 
 Enter npm start and the browser will open to local host 3000.
 
