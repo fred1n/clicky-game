@@ -17,8 +17,6 @@ npm install
 
 Enter npm start and the browser will open to local host 3000.
 
- ### The app will display a menu with a list of merchandise
-
 ![Start Image](/images/start.png)
 
 ![Home Image](/images/main.png)
