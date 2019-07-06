@@ -4,8 +4,9 @@ Homework Week 13 - Clicky-game
 
 ### Overview
 
-
 This app is deployed on https://fred1n.github.io/Clicky-game/
+=======
+
 
 ### Stack
 React (create-react-app)
