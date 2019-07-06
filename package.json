@@ -1,6 +1,7 @@
 {
-  "name": "my-app",
+  "name": "clicky-game",
   "version": "0.1.0",
+  "main": "server.js",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
