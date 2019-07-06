@@ -1,8 +1,11 @@
 {
-  "name": "clicky-game",
+  "name": "my-app",
   "version": "0.1.0",
-  "main": "server.js",
   "private": true,
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.0"
+  },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "bootstrap-css-only": "^4.3.1",
@@ -10,6 +13,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -33,5 +37,9 @@
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^1.10.2"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
