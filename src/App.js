@@ -64,7 +64,7 @@ class App extends Component {
                 <Jumbotron />
                 {
                     this.state.friend.map(friend => (
-                        <FriendCard
+                        <FriendCard key={friend.id}
                             name={friend.name}
                             image={friend.image}
                             selectFriend={this.selectFriend} 
